@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "947169138523",
+    "project_id": "day14-3db4a",
+    "storage_bucket": "day14-3db4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947169138523:android:ddfe2336d1062ec8702c7e",
+        "android_client_info": {
+          "package_name": "com.nativenotify.day14"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNhTXpxT60iyfD9VDJ4vpzV-fBrWXLGZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
