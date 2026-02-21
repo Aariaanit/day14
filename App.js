@@ -3,7 +3,7 @@ import { StyleSheet, Text, View } from 'react-native';
 import registerNNPushToken from 'native-notify';
 
 export default function App() {
-  registerNNPushToken(19069, 'k0kaAhCaSIdkyTF3wLj9sT');
+  registerNNPushToken(33282, 'N3IfMby4SElCr4Sf9XgZcx');
   return (
     <View style={styles.container}>
       <Text>Hello React Native!!!</Text>
